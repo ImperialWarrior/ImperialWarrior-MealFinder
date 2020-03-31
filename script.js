@@ -5,7 +5,7 @@ const mealsEl = document.getElementById('meals');
 const resultHeading = document.getElementById('result-heading');
 const single_mealEl = document.getElementById('single-meal');
 
-resultHeading.innerHTML = "<br><br><h2>Simple Meals that we all can Make!!</h2><br><br><br><h3>If nothing comes to mind click the random button</h3>"
+resultHeading.innerHTML = "<br><br><h2>Simple Meals that we all can Make!!</h2><br><br><br><h3>If nothing comes to mind click the random button above</h3>"
 
 
 //search meal and fetch from api
